@@ -1,0 +1,2 @@
+[18-Nov-2017 12:23:28 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.whogohost.com' did not match expected CN=`smtp.gmail.com' in /home/siroladc/public_html/vendor/phpmailer/phpmailer/class.smtp.php on line 355
+[18-Nov-2017 12:44:10 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.whogohost.com' did not match expected CN=`smtp.gmail.com' in /home/siroladc/public_html/vendor/phpmailer/phpmailer/class.smtp.php on line 355
